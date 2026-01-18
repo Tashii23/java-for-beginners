@@ -1,55 +1,33 @@
-# Readme.md
-ICSE-level Java programs with clear logic and beginner-friendly explanations.Java Basics for School Students
-About this Repository
+# Java for Beginners 🚀
 
-This repository contains beginner-friendly Java programs designed for school students (Class 8–10).
-Each program focuses on clear logic, proper comments, and step-by-step understanding.
+This repository contains beginner-friendly Java programs for school students 
+(Class 8–10, ICSE/CBSE level).
 
-The goal is to make Java simple and approachable for students who are learning programming for the first time.
+The goal of this repository is to help absolute beginners understand Java 
+step by step with clear logic and simple examples.
 
-📚 Topics Covered
-Basics of Java & syntax
+---
 
-Variables and data types
+## Programs Included
 
-Conditional statements (if–else)
+### Basics
+- Hello World
+- Even or Odd Checker
 
-Loops
+---
 
-Arrays
+## How to Run the Programs
 
-Strings
+1. Install Java (JDK)
+2. Open Command Prompt / Terminal
+3. Compile:
+   javac FileName.java
+4. Run:
+   java FileName
 
-Methods
+---
 
-Basic Object-Oriented Programming
-
-Programs are organized topic-wise for easy learning.
-
-🎯 Who is this for?
-
-School students learning Java
-
-ICSE students studying Computer Applications
-Beginners who want a strong foundation
-
-🛠 How to Use
-
-Open folders topic-wise
-
-Read the comments in each program
-
-Run the code and observe the output
-
-Modify the programs to practice
-
-📈 Updates
-
-This repository is updated regularly with new beginner-level programs and improvements.
-Purpose
-
-This repository is part of a free initiative to help students learn Java through simple explanations and structured practice.
-
-📌 Note
-
-All programs are written keeping school-level understanding in mind. No advanced or unnecessary concepts are used.
+## Who is this for?
+- School students new to Java
+- Beginners who are scared of coding
+- Students learning logic step by step
