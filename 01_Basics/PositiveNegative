@@ -1,6 +1,4 @@
 import java.util.Scanner;
-class positivenegative
-{
 public static void main()
    {
       Scanner sc=new Scanner(System.in);
