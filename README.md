@@ -13,7 +13,8 @@ step by step with clear logic and simple examples.
 ### Basics
 - Hello World
 - Even or Odd Checker
-
+- Check positive or negative
+- Grade Calculator 
 ---
 
 ## How to Run the Programs
